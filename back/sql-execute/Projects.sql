@@ -1,0 +1,1 @@
+INSERT INTO `Projects`(`id`, `full_name`, `short_name`, `name`, `birth_date`, `telephone`, `address`, `innovation`, `keywords`, `category`, `descriptions`, `student_id_id`) VALUES (1, '北航大运村的阳台建设', '北航', 'vicco', '2019-06-18 14:52:51', '123456', '北航大运村', '德才兼备', '知行合一', '1', '中国中国中国中国中国', 2);

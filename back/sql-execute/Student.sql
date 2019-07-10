@@ -1,0 +1,2 @@
+INSERT INTO `Student`(`id`, `student_id`, `password`, `name`, `department`, `email`, `major`, `year`, `telephone`, `birth_date`) VALUES (1, '234', '123', 'asd', '213435', '767039957@qq.com', 'adfa', 1244, '1234', '1241-12-21 00:00:00');
+INSERT INTO `Student`(`id`, `student_id`, `password`, `name`, `department`, `email`, `major`, `year`, `telephone`, `birth_date`) VALUES (2, '234', '123', 'asd', '213435', '767039967@qq.com', 'adfa', 1244, '1234', '1233-12-02 00:00:00');

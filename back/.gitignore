@@ -1,0 +1,11 @@
+*.json
+*pyc
+.idea/
+static/
+expert/migrations/
+administrator/migrations/
+student/migrations/
+project/migrations/
+*/migrations/*
+resource/
+util/mail.json
